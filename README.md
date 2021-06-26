@@ -1,1 +1,1 @@
-WebSite - shailesh-covid19-tracker.netlify.app
+WebSite - https://shailesh-covid19-tracker.netlify.app/
